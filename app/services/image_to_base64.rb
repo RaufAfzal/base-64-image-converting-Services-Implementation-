@@ -14,5 +14,4 @@ class ImageToBase64
         end
 
     end
-
 end
